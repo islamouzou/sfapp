@@ -15,7 +15,8 @@
     "react-native": "0.72.3",
     "expo-dev-client": "~2.4.6",
     "expo-splash-screen": "~0.20.4",
-    "react-native-force": "git+https://github.com/wmathurin/SalesforceMobileSDK-ReactNative.git#rn71"
+    "react-native-force": "git+https://github.com/wmathurin/SalesforceMobileSDK-ReactNative.git#rn71",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

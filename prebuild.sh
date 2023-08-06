@@ -9,9 +9,6 @@ node ./prebuild-scripts/android-sdk-script.js
 # Execute the second script
 node ./prebuild-scripts/build.gradle-script.js
 
-# Execute the third script
-node ./prebuild-scripts/copyscript.js
-
 # Execute the fourth script
 node ./prebuild-scripts/main-activity-script.js
 
